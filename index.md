@@ -8,8 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+````markdown
 Syntax highlighted code block
+
 
 # Nadav Yaniv's First CS193 Homework
 
@@ -19,10 +20,7 @@ Syntax highlighted code block
 - The genuine desire of the USB to help incoming students success in CS at Purdue
 
 
-
-
-
-
+````
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
