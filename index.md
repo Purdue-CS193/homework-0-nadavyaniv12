@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Nadav Yaniv's First CS193 Homework
 
-
+## Some Things I Love About CS193: 
 - The fact that it is taught by students
 - The learning of new materials that is not covered in CS180
 - The genuine desire of the USB to help incoming students success in CS at Purdue
